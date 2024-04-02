@@ -1,0 +1,15 @@
+.page-layout {
+    display: flex;
+    height: 95vh;
+   
+}
+
+
+
+.content {
+    flex: 1;
+    padding: 20px;
+    border-left: 1px solid #ddd;
+    background-color: #F0F2F5;
+    height: 94vh;
+}

@@ -1,0 +1,60 @@
+.create-user {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: white;
+    border-radius: 10%;
+}
+
+.buton {
+   
+    color:white;
+    padding: 10px 15px;
+    background-color: #53b9e1;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    width: 220px;
+    margin-left:10vh;
+}
+
+buton:hover {
+    background-color: #176ac4;
+}
+/* 
+
+.create-user h2 {
+    color: rgb(15, 116, 150);
+    font-size: x-large;
+    font-weight: 700;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+    
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+}
+
+.buton {
+   
+    color:white;
+    padding: 10px 15px;
+    background-color: #53b9e1;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    width: 220px;
+    margin-left:10vh;
+}
+
+buton:hover {
+    background-color: #176ac4;
+}
+
+ */
